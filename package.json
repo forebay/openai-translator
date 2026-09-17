@@ -1,14 +1,14 @@
 {
   "name": "openai-translator",
   "version": "1.3.0",
-  "description": "OpenAI wire-format translator for the intisy-ai AI-proxy ecosystem.",
+  "description": "OpenAI wire-format translator for the forebay AI-proxy ecosystem.",
   "type": "module",
   "main": "dist/index.js",
   "license": "MIT",
   "author": "intisy",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/intisy-ai/openai-translator.git"
+    "url": "git+https://github.com/forebay/openai-translator.git"
   },
   "keywords": [
     "ir",

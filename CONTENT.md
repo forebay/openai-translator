@@ -64,7 +64,7 @@ npm install @intisy-ai/openai-translator
 Java, as a `github-gradle` coordinate resolving this repo's released `:openai` jar:
 
 ```groovy
-githubImplementation "intisy-ai:openai-translator:1.1.0:openai"
+githubImplementation "forebay:openai-translator:1.1.0:openai"
 ```
 
 No checkout of this repo or of `core-ir` is needed, or wanted: a nested checkout is a third
