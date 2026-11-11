@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "importName": "openai-translator",
+  "description": "Converts OpenAI's wire format to and from the neutral message format.",
+  "topics": [
+    "ai",
+    "ai-proxy",
+    "forebay",
+    "java",
+    "llm",
+    "openai",
+    "teavm",
+    "translator",
+    "vendor-translator"
+  ]
+}
